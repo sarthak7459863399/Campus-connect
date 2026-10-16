@@ -1,0 +1,11 @@
+{
+  "name": "CampusConnect Student Demo",
+  "short_name": "CampusConnect",
+  "description": "Student campus information demo",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f7fc",
+  "theme_color": "#2457d6",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
